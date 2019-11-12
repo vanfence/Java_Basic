@@ -1,4 +1,4 @@
-package com.feng_02;
+package com.feng.pattern;
 
 /*单例模式： 饿汉式，懒汉式
  * 饿汉式--是不会出问题的

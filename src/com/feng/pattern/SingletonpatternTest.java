@@ -1,4 +1,4 @@
-package com.feng_02;
+package com.feng.pattern;
 
 public class SingletonpatternTest {
 	public static void main(String[] args){

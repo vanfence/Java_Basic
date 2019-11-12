@@ -1,4 +1,4 @@
-package com.feng_04;
+package com.feng.pattern;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

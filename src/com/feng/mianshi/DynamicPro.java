@@ -1,4 +1,4 @@
-package com.feng_mianshi;
+package com.feng.mianshi;
 
 import java.util.Scanner;
 
